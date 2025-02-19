@@ -1,0 +1,43 @@
+/*
+Theme Name: Assignment One
+Theme URI: http://localhost/assignment-one
+Author: Gourav Verma
+Description: Custom WordPress Theme for Assignment One
+Version: 1.0
+Tags: custom-theme, wordpress, assignment
+*/
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+.post-list {
+    margin: 20px;
+}
+
+.post-item {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
